@@ -405,6 +405,7 @@
   ],
   "textures": [
     {
+      "name": material_0_diffuse
       "sampler": 0,
       "source": 0
     }
